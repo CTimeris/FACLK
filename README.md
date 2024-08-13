@@ -1,1 +1,1 @@
-# FACLK
+The code of the paper "Feature-decorrelation Adaptive Contrastive Learning for Knowledge-aware Recommendation".
