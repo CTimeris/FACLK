@@ -17,4 +17,4 @@ keywords: Recommender system, Graph neural networks, Contrastive learning, Knowl
 
 the framework of our model:
 
-<img src="[https://github.com/user-attachments/assets/0936fa76-ee75-4951-bc36-f620ac47acfa]" width="210px", height="100px">
+<img src="[https://github.com/CTimeris/FACLK/blob/main/framework.png]" width="210px", height="100px">
