@@ -1,4 +1,4 @@
-The code of our paper：
+This repository is the code of our paper：
 
 "Feature-decorrelation Adaptive Contrastive Learning for Knowledge-aware Recommendation"
 
@@ -17,4 +17,4 @@ keywords: Recommender system, Graph neural networks, Contrastive learning, Knowl
 
 the framework of our model:
 
-<img src="https://github.com/CTimeris/FACLK/blob/main/framework.png" width="210px", height="100px">
+![framework](https://github.com/user-attachments/assets/44be8510-abb3-42aa-88a7-1b9095a3ea09)
