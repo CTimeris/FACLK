@@ -5,6 +5,7 @@ This repository is the code of our paper：
 paper_url: https://www.sciencedirect.com/science/article/abs/pii/S089360802500526X
 
 reference:
+
 @article{cai2025feature,
 
   title={Feature-decorrelation adaptive contrastive learning for knowledge-aware recommendation},
