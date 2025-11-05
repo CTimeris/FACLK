@@ -6,12 +6,19 @@ paper_url: https://www.sciencedirect.com/science/article/abs/pii/S08936080250052
 
 reference:
 @article{cai2025feature,
+
   title={Feature-decorrelation adaptive contrastive learning for knowledge-aware recommendation},
+  
   author={Cai, Tong and Zhang, Yihao and Li, Kaibei and Li, Xiaokang and Wang, Xibin},
+  
   journal={Neural Networks},
+  
   pages={107646},
+  
   year={2025},
+  
   publisher={Elsevier}
+  
 }
 
  
