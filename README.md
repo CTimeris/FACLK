@@ -2,17 +2,18 @@ This repository is the code of our paper：
 
 "Feature-decorrelation Adaptive Contrastive Learning for Knowledge-aware Recommendation"
 
+paper_url: https://www.sciencedirect.com/science/article/abs/pii/S089360802500526X
 
-main contributions:
+reference:
+@article{cai2025feature,
+  title={Feature-decorrelation adaptive contrastive learning for knowledge-aware recommendation},
+  author={Cai, Tong and Zhang, Yihao and Li, Kaibei and Li, Xiaokang and Wang, Xibin},
+  journal={Neural Networks},
+  pages={107646},
+  year={2025},
+  publisher={Elsevier}
+}
 
-1. We propose a feature decorrelation method for GNNs on KGs and IGs.
-
-2. We design an adaptive knowledge purification method to extract effective knowledge semantics on the KGs and generate augmented views for downstream tasks.
-
-3. We design a cross-view semantic alignment method using contrastive learning.
-
-
-keywords: Recommender system, Graph neural networks, Contrastive learning, Knowledge graph
  
 
 the framework of our model:
